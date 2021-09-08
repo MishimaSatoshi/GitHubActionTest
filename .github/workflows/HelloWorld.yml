@@ -1,0 +1,2 @@
+- name: Test Javascript Hello Action
+  uses: adeloyedeji/github-actions-hello@v1.0
